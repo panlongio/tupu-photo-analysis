@@ -1,0 +1,6 @@
+{
+  "name": "图谱 · 全类型照片视觉基因解析系统",
+  "description": "上传任意参考照片，自动生成 16:9 专业摄影视觉分析板，包含主体视觉标注、核心关键词锚点、构图线稿与机位解析、局部细节放大、光影色彩逻辑、六色色卡及中英文反推提示词。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
